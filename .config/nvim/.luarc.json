@@ -1,0 +1,6 @@
+{
+    "diagnostics.globals": [
+        "in_wsl",
+        "vim"
+    ]
+}
